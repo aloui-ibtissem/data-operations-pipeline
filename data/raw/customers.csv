@@ -1,0 +1,1001 @@
+customer_id,country,signup_date,device_type
+C00001,Tunisia,2026-06-13,iOS
+C00002,France,2026-03-12,iOS
+C00003,Tunisia,2026-02-05,Web
+C00004,Tunisia,2026-05-20,Web
+C00005,Tunisia,2026-04-19,iOS
+C00006,France,2026-01-24,iOS
+C00007,Italy,2026-05-10,iOS
+C00008,France,2026-05-24,Web
+C00009,Italy,2026-06-16,Android
+C00010,United Kingdom,2026-02-26,Web
+C00011,Tunisia,2026-03-13,iOS
+C00012,United Kingdom,2026-06-28,Android
+C00013,France,2026-03-13,iOS
+C00014,Tunisia,2026-03-28,iOS
+C00015,Tunisia,2026-04-08,Android
+C00016,Italy,2026-03-30,Android
+C00017,United Kingdom,2026-01-12,Web
+C00018,United Kingdom,2026-02-01,iOS
+C00019,Germany,2026-05-22,Web
+C00020,Germany,2026-06-08,Web
+C00021,Tunisia,2026-02-19,iOS
+C00022,France,2026-06-19,Android
+C00023,France,2026-01-21,iOS
+C00024,Germany,2026-04-08,Android
+C00025,Germany,2026-06-12,iOS
+C00026,Germany,2026-04-05,iOS
+C00027,Germany,2026-06-21,Web
+C00028,Tunisia,2026-06-24,Web
+C00029,France,2026-06-12,Web
+C00030,France,2026-03-04,Android
+C00031,Germany,2026-04-08,Web
+C00032,Italy,2026-06-26,iOS
+C00033,Germany,2026-06-25,iOS
+C00034,Tunisia,2026-02-28,Android
+C00035,Germany,2026-04-13,iOS
+C00036,Italy,2026-02-24,Web
+C00037,France,2026-03-22,Web
+C00038,United Kingdom,2026-05-08,Web
+C00039,France,2026-04-28,Android
+C00040,France,2026-02-05,Web
+C00041,Italy,2026-05-24,Android
+C00042,United Kingdom,2026-05-30,Web
+C00043,Germany,2026-04-13,iOS
+C00044,Italy,2026-02-05,Android
+C00045,Tunisia,2026-01-24,iOS
+C00046,France,2026-02-09,Web
+C00047,Italy,2026-04-19,iOS
+C00048,United Kingdom,2026-04-09,Web
+C00049,Italy,2026-04-30,Android
+C00050,Tunisia,2026-05-22,Web
+C00051,Italy,2026-01-30,Android
+C00052,Germany,2026-06-14,iOS
+C00053,United Kingdom,2026-03-17,iOS
+C00054,Tunisia,2026-04-27,Web
+C00055,Italy,2026-03-09,iOS
+C00056,Tunisia,2026-05-10,Web
+C00057,Italy,2026-03-18,Web
+C00058,France,2026-02-20,Android
+C00059,Italy,2026-02-11,Web
+C00060,Italy,2026-01-01,Android
+C00061,Tunisia,2026-05-06,iOS
+C00062,Germany,2026-04-03,iOS
+C00063,France,2026-01-15,Web
+C00064,Tunisia,2026-01-21,Web
+C00065,Tunisia,2026-05-05,Web
+C00066,France,2026-02-02,Web
+C00067,Italy,2026-05-02,iOS
+C00068,Italy,2026-03-09,Web
+C00069,France,2026-04-19,Web
+C00070,France,2026-06-26,Web
+C00071,United Kingdom,2026-03-21,Web
+C00072,Germany,2026-06-16,Android
+C00073,United Kingdom,2026-05-13,iOS
+C00074,France,2026-03-05,iOS
+C00075,Tunisia,2026-03-28,Web
+C00076,France,2026-05-22,Web
+C00077,Tunisia,2026-02-26,iOS
+C00078,Tunisia,2026-06-11,iOS
+C00079,Tunisia,2026-01-18,Android
+C00080,Italy,2026-01-19,iOS
+C00081,United Kingdom,2026-03-13,iOS
+C00082,France,2026-05-19,Web
+C00083,Italy,2026-05-27,Android
+C00084,United Kingdom,2026-03-04,Android
+C00085,Tunisia,2026-02-18,iOS
+C00086,United Kingdom,2026-06-18,Android
+C00087,United Kingdom,2026-04-19,Android
+C00088,Tunisia,2026-01-14,iOS
+C00089,Germany,2026-04-14,iOS
+C00090,France,2026-03-05,iOS
+C00091,United Kingdom,2026-05-18,iOS
+C00092,France,2026-04-19,Android
+C00093,France,2026-04-29,iOS
+C00094,Italy,2026-04-24,iOS
+C00095,Italy,2026-01-13,iOS
+C00096,France,2026-01-24,iOS
+C00097,United Kingdom,2026-04-15,Android
+C00098,United Kingdom,2026-02-24,iOS
+C00099,United Kingdom,2026-02-12,iOS
+C00100,Germany,2026-04-10,Android
+C00101,United Kingdom,2026-03-15,Web
+C00102,United Kingdom,2026-05-23,iOS
+C00103,Germany,2026-02-18,iOS
+C00104,Italy,2026-01-15,Web
+C00105,Tunisia,2026-05-19,Web
+C00106,Tunisia,2026-03-22,iOS
+C00107,United Kingdom,2026-05-30,Web
+C00108,France,2026-05-16,iOS
+C00109,Tunisia,2026-05-11,iOS
+C00110,Italy,2026-01-18,iOS
+C00111,France,2026-06-22,Android
+C00112,Italy,2026-01-31,iOS
+C00113,Italy,2026-05-29,iOS
+C00114,Tunisia,2026-06-08,Android
+C00115,Italy,2026-06-18,Web
+C00116,Germany,2026-05-14,Android
+C00117,Germany,2026-02-22,iOS
+C00118,United Kingdom,2026-03-09,iOS
+C00119,Germany,2026-06-21,Android
+C00120,Tunisia,2026-03-22,iOS
+C00121,Italy,2026-04-28,Web
+C00122,Tunisia,2026-01-26,Web
+C00123,Italy,2026-02-24,Android
+C00124,Germany,2026-02-03,iOS
+C00125,Germany,2026-03-04,Android
+C00126,United Kingdom,2026-02-10,Web
+C00127,Germany,2026-06-30,Web
+C00128,Italy,2026-06-17,iOS
+C00129,Italy,2026-06-20,Android
+C00130,Tunisia,2026-06-19,iOS
+C00131,Tunisia,2026-03-09,iOS
+C00132,France,2026-05-22,Android
+C00133,Italy,2026-03-14,iOS
+C00134,France,2026-03-29,Web
+C00135,Germany,2026-06-12,Web
+C00136,Germany,2026-05-06,iOS
+C00137,United Kingdom,2026-01-24,Android
+C00138,Tunisia,2026-01-12,Android
+C00139,Germany,2026-02-03,iOS
+C00140,Italy,2026-04-24,Web
+C00141,Italy,2026-04-20,iOS
+C00142,Tunisia,2026-01-29,Web
+C00143,Italy,2026-02-08,iOS
+C00144,Italy,2026-04-05,Web
+C00145,United Kingdom,2026-02-07,iOS
+C00146,Germany,2026-01-11,Android
+C00147,Germany,2026-01-11,iOS
+C00148,France,2026-06-24,Web
+C00149,Germany,2026-01-27,Web
+C00150,Italy,2026-04-15,Web
+C00151,France,2026-02-09,iOS
+C00152,United Kingdom,2026-02-15,iOS
+C00153,Germany,2026-02-15,Android
+C00154,France,2026-06-21,Android
+C00155,Tunisia,2026-02-10,Android
+C00156,United Kingdom,2026-01-10,iOS
+C00157,United Kingdom,2026-02-21,Android
+C00158,France,2026-03-20,iOS
+C00159,France,2026-01-07,Android
+C00160,Germany,2026-03-26,iOS
+C00161,Germany,2026-03-13,Web
+C00162,United Kingdom,2026-05-11,Web
+C00163,Germany,2026-05-18,iOS
+C00164,Germany,2026-01-30,iOS
+C00165,Germany,2026-05-29,iOS
+C00166,Italy,2026-01-28,Android
+C00167,Germany,2026-03-30,Android
+C00168,Italy,2026-06-05,iOS
+C00169,Italy,2026-04-09,iOS
+C00170,Tunisia,2026-03-07,Web
+C00171,Tunisia,2026-04-22,Web
+C00172,France,2026-05-18,Android
+C00173,Tunisia,2026-04-21,Web
+C00174,Italy,2026-03-26,Android
+C00175,Tunisia,2026-06-19,Web
+C00176,Italy,2026-03-18,Android
+C00177,United Kingdom,2026-06-20,Android
+C00178,Germany,2026-04-14,Web
+C00179,France,2026-02-02,Android
+C00180,United Kingdom,2026-06-20,Web
+C00181,Italy,2026-02-14,Web
+C00182,United Kingdom,2026-03-19,Web
+C00183,Germany,2026-01-01,Android
+C00184,United Kingdom,2026-02-23,Web
+C00185,Germany,2026-06-05,Android
+C00186,United Kingdom,2026-04-24,Web
+C00187,Italy,2026-02-24,Android
+C00188,Tunisia,2026-02-13,Android
+C00189,Italy,2026-05-12,Android
+C00190,France,2026-01-24,Web
+C00191,France,2026-03-21,iOS
+C00192,Tunisia,2026-02-07,iOS
+C00193,United Kingdom,2026-03-04,Web
+C00194,United Kingdom,2026-01-19,Android
+C00195,Italy,2026-06-11,iOS
+C00196,United Kingdom,2026-06-28,Android
+C00197,France,2026-04-13,iOS
+C00198,Tunisia,2026-06-17,iOS
+C00199,France,2026-04-19,iOS
+C00200,Italy,2026-06-28,Android
+C00201,Italy,2026-01-13,iOS
+C00202,United Kingdom,2026-02-01,iOS
+C00203,Italy,2026-04-29,Web
+C00204,Germany,2026-06-02,Android
+C00205,Italy,2026-06-06,Android
+C00206,United Kingdom,2026-05-21,iOS
+C00207,United Kingdom,2026-05-02,Android
+C00208,Germany,2026-03-05,Web
+C00209,France,2026-05-05,Android
+C00210,Tunisia,2026-04-23,Web
+C00211,France,2026-03-15,Android
+C00212,Germany,2026-03-27,Web
+C00213,France,2026-01-21,iOS
+C00214,United Kingdom,2026-03-01,Web
+C00215,France,2026-02-09,iOS
+C00216,United Kingdom,2026-04-17,Android
+C00217,United Kingdom,2026-05-19,Android
+C00218,France,2026-01-16,Android
+C00219,Italy,2026-04-10,Web
+C00220,Italy,2026-01-06,Android
+C00221,Tunisia,2026-05-03,Android
+C00222,United Kingdom,2026-03-18,Android
+C00223,Italy,2026-05-18,Web
+C00224,United Kingdom,2026-02-26,iOS
+C00225,United Kingdom,2026-03-11,Android
+C00226,United Kingdom,2026-01-08,Android
+C00227,United Kingdom,2026-06-21,Web
+C00228,United Kingdom,2026-02-12,iOS
+C00229,Italy,2026-06-09,iOS
+C00230,Italy,2026-04-11,Web
+C00231,Tunisia,2026-06-19,iOS
+C00232,United Kingdom,2026-06-14,iOS
+C00233,France,2026-04-29,iOS
+C00234,United Kingdom,2026-03-08,Android
+C00235,United Kingdom,2026-02-24,Android
+C00236,United Kingdom,2026-03-28,Android
+C00237,Germany,2026-04-18,iOS
+C00238,Tunisia,2026-05-01,Web
+C00239,Tunisia,2026-05-19,Android
+C00240,Tunisia,2026-02-27,Web
+C00241,Tunisia,2026-01-11,iOS
+C00242,Tunisia,2026-02-21,Web
+C00243,France,2026-02-09,iOS
+C00244,Tunisia,2026-05-02,Web
+C00245,United Kingdom,2026-02-25,Web
+C00246,Germany,2026-03-07,iOS
+C00247,Italy,2026-06-05,Web
+C00248,France,2026-01-30,Android
+C00249,Italy,2026-01-28,iOS
+C00250,Italy,2026-03-21,Web
+C00251,United Kingdom,2026-04-07,Web
+C00252,Tunisia,2026-02-20,Web
+C00253,France,2026-06-26,iOS
+C00254,Germany,2026-06-28,Web
+C00255,Tunisia,2026-06-03,Web
+C00256,Germany,2026-01-11,Web
+C00257,Germany,2026-04-20,iOS
+C00258,Germany,2026-05-10,iOS
+C00259,United Kingdom,2026-04-18,iOS
+C00260,Germany,2026-04-21,Web
+C00261,France,2026-04-28,Android
+C00262,Italy,2026-02-15,Web
+C00263,Italy,2026-03-11,Web
+C00264,United Kingdom,2026-05-04,Android
+C00265,Germany,2026-06-01,Android
+C00266,Tunisia,2026-03-04,Android
+C00267,France,2026-04-26,Android
+C00268,Italy,2026-05-26,Web
+C00269,Germany,2026-04-08,iOS
+C00270,Germany,2026-05-07,iOS
+C00271,France,2026-05-05,Android
+C00272,Germany,2026-03-08,Android
+C00273,Germany,2026-06-02,Web
+C00274,Italy,2026-01-03,iOS
+C00275,France,2026-01-22,Web
+C00276,United Kingdom,2026-04-15,Web
+C00277,United Kingdom,2026-03-03,Web
+C00278,United Kingdom,2026-05-06,iOS
+C00279,Germany,2026-01-24,iOS
+C00280,France,2026-04-14,Android
+C00281,Italy,2026-06-19,Android
+C00282,Italy,2026-05-02,Web
+C00283,United Kingdom,2026-03-30,Web
+C00284,Germany,2026-05-21,Android
+C00285,United Kingdom,2026-06-29,Android
+C00286,Germany,2026-03-20,iOS
+C00287,France,2026-01-31,Android
+C00288,Italy,2026-01-31,Web
+C00289,France,2026-02-17,iOS
+C00290,Germany,2026-05-04,Web
+C00291,Italy,2026-05-31,Web
+C00292,Tunisia,2026-03-14,iOS
+C00293,France,2026-03-17,Android
+C00294,Germany,2026-02-15,iOS
+C00295,France,2026-05-17,Android
+C00296,Tunisia,2026-01-12,Web
+C00297,France,2026-03-16,Web
+C00298,Tunisia,2026-05-06,iOS
+C00299,Germany,2026-05-27,Android
+C00300,United Kingdom,2026-05-03,Android
+C00301,Tunisia,2026-02-17,Android
+C00302,Tunisia,2026-05-03,iOS
+C00303,United Kingdom,2026-04-13,iOS
+C00304,Tunisia,2026-05-28,iOS
+C00305,Italy,2026-02-08,Android
+C00306,France,2026-01-22,iOS
+C00307,United Kingdom,2026-05-23,Web
+C00308,Italy,2026-06-02,iOS
+C00309,United Kingdom,2026-05-14,Android
+C00310,Germany,2026-04-24,Web
+C00311,Germany,2026-04-20,Web
+C00312,Tunisia,2026-06-08,Web
+C00313,France,2026-01-26,Web
+C00314,Germany,2026-02-24,Web
+C00315,France,2026-01-21,iOS
+C00316,Italy,2026-02-14,iOS
+C00317,Tunisia,2026-02-10,Android
+C00318,Italy,2026-04-26,Android
+C00319,Tunisia,2026-03-16,iOS
+C00320,Germany,2026-03-15,Web
+C00321,Tunisia,2026-04-27,Web
+C00322,Germany,2026-03-01,Web
+C00323,France,2026-05-31,Android
+C00324,Italy,2026-01-30,iOS
+C00325,France,2026-06-15,Android
+C00326,Tunisia,2026-02-06,iOS
+C00327,Germany,2026-02-12,Web
+C00328,Germany,2026-05-26,Android
+C00329,United Kingdom,2026-02-01,Web
+C00330,United Kingdom,2026-03-19,Android
+C00331,Italy,2026-05-09,Android
+C00332,Tunisia,2026-04-23,Web
+C00333,United Kingdom,2026-01-11,Web
+C00334,Italy,2026-03-24,Android
+C00335,Tunisia,2026-01-07,iOS
+C00336,Italy,2026-06-22,Web
+C00337,Germany,2026-01-06,Web
+C00338,France,2026-01-11,Android
+C00339,United Kingdom,2026-05-13,Android
+C00340,Italy,2026-02-16,Android
+C00341,United Kingdom,2026-06-12,iOS
+C00342,Germany,2026-05-01,Android
+C00343,Germany,2026-03-27,Web
+C00344,France,2026-01-27,Android
+C00345,United Kingdom,2026-04-16,Android
+C00346,United Kingdom,2026-06-19,Web
+C00347,United Kingdom,2026-01-10,iOS
+C00348,Germany,2026-03-22,Android
+C00349,United Kingdom,2026-01-30,Web
+C00350,Italy,2026-01-01,Android
+C00351,Tunisia,2026-04-16,iOS
+C00352,Germany,2026-05-13,Web
+C00353,United Kingdom,2026-05-08,iOS
+C00354,Germany,2026-02-22,Web
+C00355,Germany,2026-02-03,Android
+C00356,United Kingdom,2026-06-28,iOS
+C00357,Italy,2026-01-08,iOS
+C00358,Germany,2026-02-10,Web
+C00359,Italy,2026-01-04,Android
+C00360,France,2026-01-24,iOS
+C00361,Tunisia,2026-04-29,Web
+C00362,United Kingdom,2026-02-09,Web
+C00363,Italy,2026-03-16,Web
+C00364,United Kingdom,2026-03-11,Android
+C00365,France,2026-05-01,Android
+C00366,France,2026-05-22,Android
+C00367,Italy,2026-02-18,Web
+C00368,Tunisia,2026-02-04,Android
+C00369,Germany,2026-04-17,Web
+C00370,Tunisia,2026-03-10,Android
+C00371,Italy,2026-03-18,Web
+C00372,United Kingdom,2026-06-18,iOS
+C00373,Italy,2026-04-25,Android
+C00374,Germany,2026-03-30,Web
+C00375,United Kingdom,2026-05-20,Android
+C00376,France,2026-03-24,Web
+C00377,Italy,2026-03-03,Android
+C00378,United Kingdom,2026-03-01,iOS
+C00379,United Kingdom,2026-03-23,Web
+C00380,United Kingdom,2026-04-08,Web
+C00381,France,2026-06-16,Android
+C00382,France,2026-01-10,Web
+C00383,Germany,2026-06-01,iOS
+C00384,Tunisia,2026-04-23,Web
+C00385,Tunisia,2026-04-27,Web
+C00386,United Kingdom,2026-02-06,Web
+C00387,Tunisia,2026-02-09,Android
+C00388,Germany,2026-03-09,Web
+C00389,United Kingdom,2026-06-27,Web
+C00390,Germany,2026-01-21,Web
+C00391,United Kingdom,2026-05-17,Android
+C00392,United Kingdom,2026-06-10,Web
+C00393,Italy,2026-01-10,iOS
+C00394,Germany,2026-03-02,iOS
+C00395,United Kingdom,2026-01-24,iOS
+C00396,Tunisia,2026-06-12,Android
+C00397,Germany,2026-02-12,iOS
+C00398,Germany,2026-01-12,iOS
+C00399,Germany,2026-03-17,Android
+C00400,France,2026-04-21,iOS
+C00401,United Kingdom,2026-05-16,Web
+C00402,France,2026-06-24,iOS
+C00403,Tunisia,2026-02-14,Web
+C00404,Italy,2026-04-08,Web
+C00405,United Kingdom,2026-03-03,Web
+C00406,France,2026-02-06,Android
+C00407,Germany,2026-06-13,Android
+C00408,Tunisia,2026-03-07,Android
+C00409,Italy,2026-03-15,iOS
+C00410,United Kingdom,2026-01-19,Android
+C00411,Germany,2026-05-31,Web
+C00412,Germany,2026-04-19,Android
+C00413,France,2026-03-19,Android
+C00414,Tunisia,2026-05-04,iOS
+C00415,Italy,2026-04-08,Android
+C00416,Germany,2026-05-28,Web
+C00417,Tunisia,2026-03-17,Web
+C00418,Germany,2026-04-12,iOS
+C00419,Tunisia,2026-05-25,Web
+C00420,Germany,2026-05-08,iOS
+C00421,Germany,2026-06-05,iOS
+C00422,France,2026-06-12,Web
+C00423,France,2026-03-06,Web
+C00424,Tunisia,2026-01-25,Android
+C00425,Tunisia,2026-04-23,Web
+C00426,France,2026-04-04,iOS
+C00427,Germany,2026-03-17,Web
+C00428,France,2026-04-17,iOS
+C00429,Italy,2026-02-03,Android
+C00430,Italy,2026-05-16,Android
+C00431,Germany,2026-02-12,Android
+C00432,Germany,2026-03-17,iOS
+C00433,Tunisia,2026-04-30,iOS
+C00434,United Kingdom,2026-02-27,Web
+C00435,Tunisia,2026-04-04,Android
+C00436,Germany,2026-01-04,Web
+C00437,United Kingdom,2026-02-01,Android
+C00438,Germany,2026-06-22,Web
+C00439,Germany,2026-04-08,iOS
+C00440,France,2026-06-22,Android
+C00441,Italy,2026-01-07,Web
+C00442,Italy,2026-03-25,iOS
+C00443,Tunisia,2026-06-15,Web
+C00444,Germany,2026-04-29,Web
+C00445,Tunisia,2026-04-15,iOS
+C00446,Tunisia,2026-01-12,Android
+C00447,Tunisia,2026-05-07,iOS
+C00448,Italy,2026-03-02,iOS
+C00449,United Kingdom,2026-04-10,Android
+C00450,Italy,2026-06-21,Android
+C00451,France,2026-05-31,Android
+C00452,Tunisia,2026-06-17,Android
+C00453,United Kingdom,2026-06-07,Android
+C00454,Germany,2026-01-09,iOS
+C00455,United Kingdom,2026-04-24,iOS
+C00456,Tunisia,2026-04-03,Web
+C00457,Italy,2026-04-05,Web
+C00458,Tunisia,2026-04-02,Android
+C00459,France,2026-03-12,iOS
+C00460,Tunisia,2026-04-27,Web
+C00461,Italy,2026-02-24,iOS
+C00462,Germany,2026-01-13,iOS
+C00463,Italy,2026-02-02,iOS
+C00464,Italy,2026-01-18,iOS
+C00465,France,2026-05-31,iOS
+C00466,France,2026-03-26,Web
+C00467,Germany,2026-01-01,iOS
+C00468,Italy,2026-02-03,Android
+C00469,Tunisia,2026-02-14,Web
+C00470,France,2026-01-07,iOS
+C00471,France,2026-04-02,Web
+C00472,Tunisia,2026-03-24,iOS
+C00473,Tunisia,2026-03-09,iOS
+C00474,Italy,2026-04-18,iOS
+C00475,United Kingdom,2026-01-17,Android
+C00476,Italy,2026-04-03,Web
+C00477,United Kingdom,2026-01-28,Web
+C00478,Italy,2026-02-26,iOS
+C00479,Italy,2026-06-18,Android
+C00480,Tunisia,2026-04-28,iOS
+C00481,United Kingdom,2026-05-03,Android
+C00482,Tunisia,2026-06-25,Android
+C00483,Tunisia,2026-04-24,iOS
+C00484,Italy,2026-03-24,iOS
+C00485,France,2026-01-17,Android
+C00486,Italy,2026-06-09,Web
+C00487,United Kingdom,2026-03-25,Web
+C00488,Germany,2026-05-16,Android
+C00489,Italy,2026-05-10,Android
+C00490,Tunisia,2026-01-26,Web
+C00491,Italy,2026-06-16,Web
+C00492,United Kingdom,2026-02-25,Android
+C00493,United Kingdom,2026-02-28,Android
+C00494,United Kingdom,2026-04-27,Android
+C00495,Germany,2026-01-25,Android
+C00496,Germany,2026-03-22,Android
+C00497,United Kingdom,2026-02-09,iOS
+C00498,Tunisia,2026-01-24,iOS
+C00499,Tunisia,2026-04-21,Web
+C00500,France,2026-04-06,Web
+C00501,Italy,2026-01-16,Web
+C00502,Germany,2026-05-24,Web
+C00503,United Kingdom,2026-02-01,Android
+C00504,United Kingdom,2026-06-20,Web
+C00505,Germany,2026-01-14,Web
+C00506,Germany,2026-03-21,iOS
+C00507,Italy,2026-05-28,iOS
+C00508,United Kingdom,2026-02-09,iOS
+C00509,Germany,2026-01-28,Web
+C00510,Tunisia,2026-04-05,Android
+C00511,France,2026-05-27,Android
+C00512,Italy,2026-05-24,Web
+C00513,Italy,2026-06-22,iOS
+C00514,Germany,2026-06-05,iOS
+C00515,Germany,2026-02-16,Web
+C00516,Germany,2026-03-21,Android
+C00517,France,2026-01-02,iOS
+C00518,United Kingdom,2026-05-25,iOS
+C00519,Tunisia,2026-02-06,iOS
+C00520,France,2026-05-16,Android
+C00521,United Kingdom,2026-04-18,Android
+C00522,Germany,2026-02-10,Android
+C00523,Italy,2026-03-25,Web
+C00524,Tunisia,2026-01-22,iOS
+C00525,Italy,2026-02-10,iOS
+C00526,Tunisia,2026-06-22,Android
+C00527,United Kingdom,2026-04-24,Android
+C00528,United Kingdom,2026-06-05,Android
+C00529,France,2026-03-11,Web
+C00530,Germany,2026-01-30,Android
+C00531,Germany,2026-01-29,Web
+C00532,Italy,2026-06-23,Android
+C00533,Germany,2026-05-15,iOS
+C00534,United Kingdom,2026-02-26,Web
+C00535,Tunisia,2026-01-15,iOS
+C00536,France,2026-03-19,iOS
+C00537,Germany,2026-03-07,Android
+C00538,Tunisia,2026-01-31,Android
+C00539,France,2026-04-21,iOS
+C00540,Italy,2026-04-08,Web
+C00541,Italy,2026-02-28,Web
+C00542,Germany,2026-06-21,iOS
+C00543,Tunisia,2026-04-12,Android
+C00544,United Kingdom,2026-01-05,iOS
+C00545,Italy,2026-03-22,Android
+C00546,United Kingdom,2026-05-27,Web
+C00547,United Kingdom,2026-06-13,Android
+C00548,United Kingdom,2026-01-30,iOS
+C00549,France,2026-03-25,Web
+C00550,Germany,2026-04-28,iOS
+C00551,Tunisia,2026-04-22,iOS
+C00552,Italy,2026-04-22,Android
+C00553,Tunisia,2026-05-15,Android
+C00554,Germany,2026-03-21,iOS
+C00555,France,2026-03-27,iOS
+C00556,Tunisia,2026-05-11,Web
+C00557,France,2026-05-11,Android
+C00558,France,2026-03-31,iOS
+C00559,France,2026-01-27,Android
+C00560,France,2026-02-20,Web
+C00561,Tunisia,2026-02-09,iOS
+C00562,United Kingdom,2026-06-10,Android
+C00563,Italy,2026-05-25,Android
+C00564,Italy,2026-06-24,Web
+C00565,Italy,2026-06-12,Android
+C00566,Germany,2026-06-10,iOS
+C00567,Tunisia,2026-04-23,Android
+C00568,Germany,2026-04-24,Android
+C00569,Tunisia,2026-06-01,Android
+C00570,Tunisia,2026-05-10,Android
+C00571,United Kingdom,2026-04-29,iOS
+C00572,Germany,2026-01-15,Android
+C00573,Tunisia,2026-01-20,Web
+C00574,Italy,2026-06-02,Android
+C00575,Italy,2026-04-29,Web
+C00576,United Kingdom,2026-01-11,Web
+C00577,France,2026-06-16,Android
+C00578,United Kingdom,2026-06-04,Web
+C00579,Tunisia,2026-02-08,Android
+C00580,Germany,2026-01-27,Web
+C00581,Italy,2026-01-22,Web
+C00582,Tunisia,2026-02-14,iOS
+C00583,United Kingdom,2026-04-23,Web
+C00584,Italy,2026-05-14,iOS
+C00585,Germany,2026-04-04,Android
+C00586,United Kingdom,2026-04-10,Android
+C00587,Italy,2026-06-23,iOS
+C00588,Germany,2026-06-11,iOS
+C00589,Tunisia,2026-03-26,Web
+C00590,United Kingdom,2026-06-23,Android
+C00591,Italy,2026-03-06,iOS
+C00592,Tunisia,2026-03-27,Web
+C00593,France,2026-06-19,Android
+C00594,United Kingdom,2026-03-21,iOS
+C00595,Tunisia,2026-06-02,Android
+C00596,United Kingdom,2026-05-24,Web
+C00597,France,2026-03-26,Web
+C00598,Italy,2026-06-29,iOS
+C00599,United Kingdom,2026-06-15,Web
+C00600,Tunisia,2026-04-03,Android
+C00601,France,2026-03-21,iOS
+C00602,United Kingdom,2026-03-29,iOS
+C00603,France,2026-02-27,iOS
+C00604,Germany,2026-01-20,iOS
+C00605,Italy,2026-05-10,Web
+C00606,Tunisia,2026-05-15,Web
+C00607,Italy,2026-03-28,iOS
+C00608,United Kingdom,2026-06-02,iOS
+C00609,France,2026-02-11,Web
+C00610,France,2026-06-09,Web
+C00611,Tunisia,2026-04-23,Android
+C00612,France,2026-04-04,Android
+C00613,Germany,2026-06-06,Web
+C00614,France,2026-04-25,Web
+C00615,Germany,2026-03-03,Android
+C00616,Germany,2026-02-19,Web
+C00617,United Kingdom,2026-05-27,Android
+C00618,United Kingdom,2026-03-14,Web
+C00619,United Kingdom,2026-05-16,iOS
+C00620,Italy,2026-02-21,iOS
+C00621,Tunisia,2026-03-06,Web
+C00622,Germany,2026-05-04,Web
+C00623,Italy,2026-01-27,iOS
+C00624,Tunisia,2026-03-14,iOS
+C00625,United Kingdom,2026-03-11,Web
+C00626,United Kingdom,2026-02-07,iOS
+C00627,United Kingdom,2026-02-26,Android
+C00628,United Kingdom,2026-01-07,iOS
+C00629,Italy,2026-04-12,Android
+C00630,United Kingdom,2026-03-02,iOS
+C00631,France,2026-04-06,iOS
+C00632,Tunisia,2026-03-23,Web
+C00633,Germany,2026-06-16,iOS
+C00634,Tunisia,2026-02-05,Android
+C00635,France,2026-05-01,Web
+C00636,United Kingdom,2026-05-01,Web
+C00637,Tunisia,2026-01-02,iOS
+C00638,France,2026-03-07,iOS
+C00639,Italy,2026-05-21,Web
+C00640,Tunisia,2026-04-19,Android
+C00641,Germany,2026-03-02,iOS
+C00642,France,2026-01-13,Android
+C00643,Italy,2026-06-13,Android
+C00644,Tunisia,2026-01-17,Android
+C00645,Italy,2026-06-02,iOS
+C00646,Italy,2026-06-11,Web
+C00647,France,2026-03-03,Android
+C00648,Tunisia,2026-04-20,Web
+C00649,France,2026-04-01,Web
+C00650,France,2026-04-17,Web
+C00651,Tunisia,2026-06-21,Web
+C00652,Tunisia,2026-04-03,Web
+C00653,Italy,2026-05-20,Web
+C00654,Tunisia,2026-05-22,Android
+C00655,Tunisia,2026-05-01,Web
+C00656,Germany,2026-04-10,Android
+C00657,Germany,2026-01-05,iOS
+C00658,France,2026-03-30,Web
+C00659,Tunisia,2026-06-18,Web
+C00660,France,2026-03-27,iOS
+C00661,Italy,2026-04-01,Android
+C00662,France,2026-06-14,Web
+C00663,United Kingdom,2026-04-29,Web
+C00664,France,2026-02-16,iOS
+C00665,Tunisia,2026-04-28,Android
+C00666,Tunisia,2026-02-21,iOS
+C00667,Germany,2026-01-11,Android
+C00668,United Kingdom,2026-05-12,Web
+C00669,Germany,2026-05-02,iOS
+C00670,France,2026-06-15,Android
+C00671,Tunisia,2026-04-02,Web
+C00672,Germany,2026-03-26,iOS
+C00673,United Kingdom,2026-04-05,Android
+C00674,United Kingdom,2026-04-23,Android
+C00675,United Kingdom,2026-02-17,Web
+C00676,Germany,2026-05-08,Web
+C00677,Tunisia,2026-03-10,Web
+C00678,Tunisia,2026-04-19,Android
+C00679,France,2026-06-04,Web
+C00680,Germany,2026-03-17,iOS
+C00681,Germany,2026-01-21,Web
+C00682,Germany,2026-03-17,Android
+C00683,United Kingdom,2026-06-04,iOS
+C00684,United Kingdom,2026-06-26,Android
+C00685,Tunisia,2026-04-25,Web
+C00686,Italy,2026-04-01,Android
+C00687,Tunisia,2026-03-12,iOS
+C00688,United Kingdom,2026-06-21,Android
+C00689,France,2026-05-12,iOS
+C00690,Italy,2026-02-06,Web
+C00691,Tunisia,2026-04-23,iOS
+C00692,France,2026-01-18,Web
+C00693,Germany,2026-04-04,Android
+C00694,Tunisia,2026-05-26,Web
+C00695,United Kingdom,2026-02-09,Android
+C00696,United Kingdom,2026-04-06,iOS
+C00697,France,2026-05-27,Web
+C00698,United Kingdom,2026-04-04,Android
+C00699,Germany,2026-06-16,iOS
+C00700,Tunisia,2026-01-30,Web
+C00701,United Kingdom,2026-02-17,Web
+C00702,Italy,2026-04-10,iOS
+C00703,Germany,2026-03-09,Web
+C00704,France,2026-04-25,Web
+C00705,United Kingdom,2026-03-15,iOS
+C00706,France,2026-02-01,iOS
+C00707,France,2026-04-26,Web
+C00708,Tunisia,2026-04-24,Web
+C00709,Germany,2026-03-23,Web
+C00710,Italy,2026-01-17,Web
+C00711,Germany,2026-03-16,iOS
+C00712,France,2026-06-29,Android
+C00713,France,2026-05-11,iOS
+C00714,France,2026-02-21,iOS
+C00715,Tunisia,2026-05-07,Android
+C00716,Italy,2026-05-22,Android
+C00717,Italy,2026-04-30,iOS
+C00718,Tunisia,2026-06-06,iOS
+C00719,United Kingdom,2026-03-21,Web
+C00720,Italy,2026-05-03,Android
+C00721,Italy,2026-04-15,iOS
+C00722,Germany,2026-02-02,Web
+C00723,United Kingdom,2026-01-19,Android
+C00724,Italy,2026-06-24,Android
+C00725,Italy,2026-02-02,Web
+C00726,France,2026-05-31,iOS
+C00727,Italy,2026-04-21,iOS
+C00728,Italy,2026-02-01,iOS
+C00729,France,2026-03-19,iOS
+C00730,France,2026-03-24,Android
+C00731,Germany,2026-05-13,iOS
+C00732,France,2026-03-06,Web
+C00733,Germany,2026-05-22,iOS
+C00734,Germany,2026-06-10,Web
+C00735,Tunisia,2026-05-17,Web
+C00736,France,2026-06-14,Web
+C00737,France,2026-05-29,iOS
+C00738,Italy,2026-06-18,Web
+C00739,Germany,2026-06-04,Web
+C00740,Tunisia,2026-01-11,iOS
+C00741,Italy,2026-01-12,Android
+C00742,France,2026-06-16,Web
+C00743,Italy,2026-04-17,Web
+C00744,United Kingdom,2026-01-08,Web
+C00745,Germany,2026-05-20,Web
+C00746,United Kingdom,2026-03-19,iOS
+C00747,United Kingdom,2026-06-25,Android
+C00748,Tunisia,2026-04-27,Web
+C00749,France,2026-01-16,Android
+C00750,United Kingdom,2026-04-17,Android
+C00751,Germany,2026-02-22,Web
+C00752,Germany,2026-02-06,Web
+C00753,Germany,2026-03-23,Android
+C00754,Germany,2026-02-03,Web
+C00755,Tunisia,2026-05-24,Android
+C00756,United Kingdom,2026-03-03,iOS
+C00757,United Kingdom,2026-03-10,iOS
+C00758,Tunisia,2026-02-06,iOS
+C00759,United Kingdom,2026-03-16,Web
+C00760,France,2026-04-18,iOS
+C00761,Italy,2026-03-25,Web
+C00762,France,2026-03-22,iOS
+C00763,Italy,2026-05-08,Android
+C00764,Germany,2026-05-08,Android
+C00765,Tunisia,2026-01-06,Android
+C00766,United Kingdom,2026-05-10,iOS
+C00767,Italy,2026-02-25,Android
+C00768,Tunisia,2026-01-13,Android
+C00769,Italy,2026-05-07,Web
+C00770,United Kingdom,2026-06-22,Android
+C00771,Tunisia,2026-05-18,iOS
+C00772,France,2026-04-21,Android
+C00773,United Kingdom,2026-04-04,Android
+C00774,United Kingdom,2026-01-12,iOS
+C00775,Italy,2026-05-26,iOS
+C00776,Italy,2026-04-03,Android
+C00777,United Kingdom,2026-01-19,Web
+C00778,Italy,2026-04-26,Android
+C00779,Italy,2026-06-09,iOS
+C00780,Tunisia,2026-02-02,Android
+C00781,Germany,2026-04-06,Web
+C00782,France,2026-04-04,iOS
+C00783,Italy,2026-06-04,Android
+C00784,Tunisia,2026-05-09,iOS
+C00785,France,2026-01-10,Web
+C00786,United Kingdom,2026-03-27,Web
+C00787,France,2026-04-27,Web
+C00788,France,2026-05-12,Android
+C00789,Germany,2026-06-06,iOS
+C00790,Italy,2026-04-11,Web
+C00791,Italy,2026-03-18,Android
+C00792,Italy,2026-05-10,Web
+C00793,Italy,2026-05-06,Android
+C00794,Tunisia,2026-05-02,Android
+C00795,Tunisia,2026-03-26,Android
+C00796,Germany,2026-05-30,Web
+C00797,Tunisia,2026-06-26,Web
+C00798,Germany,2026-05-02,Web
+C00799,Italy,2026-05-29,iOS
+C00800,Italy,2026-01-14,Android
+C00801,Italy,2026-02-13,Web
+C00802,United Kingdom,2026-06-08,iOS
+C00803,France,2026-06-24,iOS
+C00804,Tunisia,2026-05-27,iOS
+C00805,United Kingdom,2026-01-05,Android
+C00806,France,2026-04-18,Android
+C00807,France,2026-06-26,Android
+C00808,Italy,2026-05-09,Android
+C00809,France,2026-01-16,Web
+C00810,Italy,2026-02-23,Android
+C00811,United Kingdom,2026-06-19,Web
+C00812,Germany,2026-04-07,iOS
+C00813,Italy,2026-04-28,Android
+C00814,Germany,2026-05-20,Web
+C00815,Germany,2026-06-24,Web
+C00816,France,2026-05-04,iOS
+C00817,Italy,2026-03-13,Android
+C00818,Germany,2026-02-27,Android
+C00819,France,2026-06-30,Web
+C00820,United Kingdom,2026-06-30,Android
+C00821,Germany,2026-05-03,Web
+C00822,Germany,2026-03-12,iOS
+C00823,Italy,2026-05-27,Android
+C00824,Germany,2026-04-12,iOS
+C00825,Tunisia,2026-03-16,Android
+C00826,Germany,2026-01-21,Android
+C00827,Germany,2026-06-17,Web
+C00828,France,2026-05-03,iOS
+C00829,Germany,2026-05-18,Web
+C00830,Germany,2026-06-28,iOS
+C00831,Italy,2026-01-28,Web
+C00832,France,2026-05-31,iOS
+C00833,Italy,2026-01-13,iOS
+C00834,France,2026-06-13,iOS
+C00835,United Kingdom,2026-01-26,Android
+C00836,Tunisia,2026-05-01,Web
+C00837,Tunisia,2026-02-05,Web
+C00838,United Kingdom,2026-02-10,Web
+C00839,United Kingdom,2026-05-02,Web
+C00840,Germany,2026-02-21,Android
+C00841,Tunisia,2026-03-15,iOS
+C00842,Italy,2026-06-16,iOS
+C00843,Tunisia,2026-05-17,iOS
+C00844,France,2026-04-17,iOS
+C00845,United Kingdom,2026-04-12,iOS
+C00846,Tunisia,2026-03-16,iOS
+C00847,Italy,2026-03-18,Web
+C00848,Germany,2026-01-28,Android
+C00849,Italy,2026-04-27,Web
+C00850,France,2026-05-07,Web
+C00851,Germany,2026-04-30,iOS
+C00852,Germany,2026-01-29,iOS
+C00853,Germany,2026-04-28,Web
+C00854,Tunisia,2026-02-17,Web
+C00855,Germany,2026-03-28,Web
+C00856,France,2026-06-22,iOS
+C00857,United Kingdom,2026-06-06,Android
+C00858,Germany,2026-05-12,iOS
+C00859,Tunisia,2026-04-13,iOS
+C00860,United Kingdom,2026-02-05,Android
+C00861,Tunisia,2026-03-05,Android
+C00862,France,2026-04-09,Android
+C00863,Germany,2026-03-10,Android
+C00864,Italy,2026-05-30,iOS
+C00865,Germany,2026-03-08,Web
+C00866,Tunisia,2026-03-02,Web
+C00867,United Kingdom,2026-01-31,Android
+C00868,United Kingdom,2026-02-10,Web
+C00869,Germany,2026-05-09,Web
+C00870,Germany,2026-01-31,Android
+C00871,France,2026-06-07,iOS
+C00872,United Kingdom,2026-02-04,iOS
+C00873,Italy,2026-04-27,Android
+C00874,Italy,2026-04-17,Android
+C00875,France,2026-05-18,iOS
+C00876,Italy,2026-06-24,iOS
+C00877,United Kingdom,2026-05-15,Web
+C00878,Germany,2026-06-30,iOS
+C00879,Tunisia,2026-05-25,iOS
+C00880,Italy,2026-05-21,iOS
+C00881,Italy,2026-05-27,iOS
+C00882,Germany,2026-02-12,Web
+C00883,Tunisia,2026-04-24,Web
+C00884,Italy,2026-02-22,Android
+C00885,Italy,2026-01-24,Android
+C00886,United Kingdom,2026-01-15,iOS
+C00887,United Kingdom,2026-05-12,Android
+C00888,Tunisia,2026-05-25,Web
+C00889,Germany,2026-04-29,Web
+C00890,United Kingdom,2026-01-06,Android
+C00891,France,2026-01-01,Web
+C00892,Tunisia,2026-01-19,Android
+C00893,Tunisia,2026-03-30,Web
+C00894,Tunisia,2026-01-16,Android
+C00895,Germany,2026-01-09,Android
+C00896,France,2026-02-16,Web
+C00897,United Kingdom,2026-06-15,Android
+C00898,United Kingdom,2026-04-08,Android
+C00899,Tunisia,2026-04-07,Web
+C00900,Italy,2026-06-19,iOS
+C00901,Germany,2026-06-17,iOS
+C00902,Italy,2026-02-15,Android
+C00903,France,2026-05-16,Web
+C00904,Tunisia,2026-02-27,iOS
+C00905,United Kingdom,2026-03-18,Web
+C00906,United Kingdom,2026-05-20,Web
+C00907,France,2026-04-08,iOS
+C00908,Germany,2026-04-28,iOS
+C00909,France,2026-03-12,Web
+C00910,Tunisia,2026-01-29,Web
+C00911,Italy,2026-04-18,iOS
+C00912,France,2026-03-03,iOS
+C00913,Italy,2026-01-26,iOS
+C00914,Italy,2026-04-25,Web
+C00915,Tunisia,2026-06-30,iOS
+C00916,United Kingdom,2026-01-12,Android
+C00917,Italy,2026-03-01,iOS
+C00918,France,2026-01-15,Web
+C00919,France,2026-03-16,Web
+C00920,Germany,2026-05-28,Web
+C00921,Germany,2026-06-03,iOS
+C00922,France,2026-03-19,Web
+C00923,France,2026-05-14,Android
+C00924,Germany,2026-03-18,iOS
+C00925,Italy,2026-05-23,Web
+C00926,United Kingdom,2026-02-14,Web
+C00927,Tunisia,2026-05-07,Android
+C00928,United Kingdom,2026-06-14,Web
+C00929,United Kingdom,2026-03-23,Android
+C00930,Germany,2026-02-08,Android
+C00931,Italy,2026-02-17,Android
+C00932,France,2026-03-03,Android
+C00933,United Kingdom,2026-02-06,iOS
+C00934,United Kingdom,2026-05-24,Android
+C00935,Italy,2026-05-23,iOS
+C00936,France,2026-04-10,Android
+C00937,Germany,2026-02-22,Web
+C00938,United Kingdom,2026-01-21,Android
+C00939,Italy,2026-01-24,Web
+C00940,Tunisia,2026-02-18,Android
+C00941,Italy,2026-04-07,Web
+C00942,Tunisia,2026-01-11,iOS
+C00943,Italy,2026-05-31,iOS
+C00944,France,2026-05-03,Android
+C00945,Tunisia,2026-03-19,iOS
+C00946,Tunisia,2026-02-18,Web
+C00947,France,2026-05-03,Web
+C00948,France,2026-06-04,Android
+C00949,Italy,2026-03-03,Android
+C00950,United Kingdom,2026-03-14,Android
+C00951,Germany,2026-05-17,Android
+C00952,Germany,2026-03-08,Web
+C00953,United Kingdom,2026-05-08,iOS
+C00954,Germany,2026-05-01,iOS
+C00955,Germany,2026-04-05,Android
+C00956,Italy,2026-01-12,iOS
+C00957,Tunisia,2026-02-07,Android
+C00958,Italy,2026-05-22,Web
+C00959,Germany,2026-04-17,iOS
+C00960,Germany,2026-02-20,iOS
+C00961,Italy,2026-04-08,iOS
+C00962,Italy,2026-05-08,Web
+C00963,Germany,2026-06-25,Android
+C00964,United Kingdom,2026-05-06,Android
+C00965,Germany,2026-02-13,iOS
+C00966,Italy,2026-02-05,Android
+C00967,Italy,2026-02-17,Web
+C00968,Italy,2026-01-16,iOS
+C00969,Tunisia,2026-01-20,iOS
+C00970,France,2026-04-16,Web
+C00971,Tunisia,2026-03-01,Web
+C00972,Tunisia,2026-02-08,iOS
+C00973,United Kingdom,2026-05-10,Android
+C00974,Italy,2026-01-16,Web
+C00975,Italy,2026-06-20,Android
+C00976,United Kingdom,2026-06-18,iOS
+C00977,Italy,2026-01-02,Web
+C00978,Tunisia,2026-04-16,iOS
+C00979,Germany,2026-05-16,Web
+C00980,Tunisia,2026-03-15,Web
+C00981,United Kingdom,2026-06-28,iOS
+C00982,Tunisia,2026-01-28,Web
+C00983,France,2026-02-08,iOS
+C00984,Italy,2026-06-08,Android
+C00985,Germany,2026-04-01,Android
+C00986,Germany,2026-01-21,Android
+C00987,Italy,2026-04-28,iOS
+C00988,France,2026-06-28,Android
+C00989,Tunisia,2026-06-25,Web
+C00990,Tunisia,2026-06-16,iOS
+C00991,United Kingdom,2026-04-14,Android
+C00992,United Kingdom,2026-05-22,iOS
+C00993,Tunisia,2026-06-13,Web
+C00994,Tunisia,2026-02-13,Android
+C00995,Germany,2026-04-22,Web
+C00996,Italy,2026-01-25,iOS
+C00997,France,2026-02-28,Web
+C00998,United Kingdom,2026-05-26,Android
+C00999,Tunisia,2026-01-12,Web
+C01000,Italy,2026-03-13,Web

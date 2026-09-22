@@ -1,0 +1,8 @@
+pandas
+duckdb
+dbt-core
+dbt-duckdb
+pyarrow
+pytest
+python-dotenv
+
